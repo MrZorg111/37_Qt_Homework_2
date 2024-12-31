@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/37_Homework_2/">
+    <file alias="Main.qml">C:/Users/yodji/Desktop/37_Homework_2/Main.qml</file>
+    <file alias="Resourses/icon/ButtonPause.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonPause.jpg</file>
+    <file alias="Resourses/icon/ButtonPlay.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonPlay.jpg</file>
+    <file alias="Resourses/icon/ButtonRewardLeft.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonRewardLeft.jpg</file>
+    <file alias="Resourses/icon/ButtonRewardRigth.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonRewardRigth.jpg</file>
+    <file alias="Resourses/icon/ButtonStop.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonStop.jpg</file>
+    <file alias="Resourses/icon/ButtonEject.jpg">C:/Users/yodji/Desktop/37_Homework_2/Resourses/icon/ButtonEject.jpg</file>
+  </qresource>
+</RCC>
+

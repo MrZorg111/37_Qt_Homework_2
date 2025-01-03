@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ED/Desktop/37_Qt_Homework_2
+-cmake-output
+-output-file
+C:/Users/ED/Desktop/37_Qt_Homework_2/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_app37_Homework_2.cmake
+-importPath
+C:/Users/ED/Desktop/37_Qt_Homework_2/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/37_Homework_2
+-importPath
+C:/Users/ED/Desktop/37_Qt_Homework_2/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug
+-importPath
+P:/QT/6.5.0/mingw_64/./qml
+-qrcFiles
+C:/Users/ED/Desktop/37_Qt_Homework_2/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.rcc/qmake_37_Homework_2.qrc
+C:/Users/ED/Desktop/37_Qt_Homework_2/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.rcc/app37_Homework_2_raw_qml_0.qrc
